@@ -11,9 +11,9 @@ const CONFIG = {
     btnNo: 'còn chọn bên này là bỏ mặt tui đó :<',
     question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
     btnReply: 'gửi đi',
-    reply: 'yêu quá chời luôn đó :3',
+    reply: 'gửi đi',
     mess: 'dễ thương quá troioi chet tuii><',
-    messDesc: 'pp  ',
-    btnAccept: ' :3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    messDesc: 'vậy mai đi chơi với tui nhe',
+    btnAccept: 'ok được thoi :3',
+    messLink: 'https://www.messenger.com/t/100051752477903' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
