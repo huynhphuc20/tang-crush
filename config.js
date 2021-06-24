@@ -1,19 +1,18 @@
 const CONFIG = {
-    introTitle: 'alo bạn gì ơi!',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao bạn cứ đi nhầm đường
-    Lạc vào tim tôi lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'chọn bên này là thích tui nhe :3',
-    btnNo: 'còn chọn bên này là bỏ mặt tui đó :<',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
-    btnReply: 'gửi đi',
-    reply: 'gửi đi',
-    mess: 'dễ thương quá troioi chet tuii><',
-    messDesc: 'vậy mai đi chơi với tui nhe',
-    btnAccept: 'ok được thoi :3',
-    messLink: 'https://www.messenger.com/t/100051752477903' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    introTitle: 'ê ê',
+    introDesc: `cái web này tạo ra để ngta tỏ tình crush
+    nhưng mà minh hong phải ngta 
+    nên mình dùng nó để =)))`,
+    btnIntro: 'xem tiếp ha',
+    title: 'chuyện là như này nè bạn êy 😙',
+    desc: 'ýe ye ỳe ai am mís sing dù ú u ú uuu~~',
+    btnYes: 'yes yes i am missing you vailon ',
+    btnNo: 'no no go away',
+    question:'hết dịch set kèo ngeeeee, hong bùm nựa sogi =))',
+    btnReply: 'trả lời thật lòng nào',
+    reply: 'cái này chịu hay không cũng phải chịu hà :)',
+    mess: 'gòi ok pp',
+    messDesc: 'làm cái này kì công zl đó ',
+    btnAccept: 'iu thưn',
+    messLink: 'https://m.me/NPneee' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
