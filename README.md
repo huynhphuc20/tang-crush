@@ -11,18 +11,18 @@ const CONFIG = {
     introTitle: 'Ê ê',
     introDesc: `chuyện là như này nè
     trang web này là để người ta tỏ tình crush
-    nhưng mà tui thích dùng nó để =))) `,
+    nhưng mà mình không phải người ta đâu =))) `,
     btnIntro: 'ehehehe',
     title: 'hello ngại quá, chuyện là z nè',
-    desc: 'ýe ye ỳe ai am mís sing duu~~ ',
+    desc: 'mình có nói gòi mình nhớ bạn vcđ á =)) mà dùng cách này cho nó chân thật ',
     btnYes: 'yes me too, i'm missing you vailon =)))',
     btnNo: 'no no go away',
     question:'nào hết dịch set kèo liền nhá, hong bùm nựa đâuu',
-    btnReply: 'ans thật lòng đê',
-    reply: 'ok ok =))',
+    btnReply: 'trả lời thật lòng đê',
+    reply: 'cái này chịu hay không đều phải nói chịu hết á liuliu =))',
     mess: 'gòy ok pp',
-    messDesc: 'làm cái này nửa tiếng á troi',
-    btnAccept: 'ok pp :33',
+    messDesc: 'làm cái này kì công zl á',
+    btnAccept: 'iu thưn :3',
     messLink: 'http://m.me/NPneee' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
 ```
