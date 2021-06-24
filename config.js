@@ -1,12 +1,12 @@
 const CONFIG = {
     introTitle: 'ê ê',
     introDesc: `cái web này tạo ra để ngta tỏ tình crush
-    nhưng mà minh hong phải ngta 
+    nhưng mà mình hong phải ngta 
     nên mình dùng nó để =)))`,
     btnIntro: 'xem tiếp ha',
     title: 'chuyện là như này nè bạn êy 😙',
-    desc: 'ýe ye ỳe ai am mís sing dù ú u ú uuu~~',
-    btnYes: 'yes yes i am missing you vailon ',
+    desc: 'mình có nói gòi là mình nhớ bạn vcl mà giờ dùng cách này nói lại cho nó thành thực ha',
+    btnYes: 'yes yes i am missing you vailon too',
     btnNo: 'no no go away',
     question:'hết dịch set kèo ngeeeee, hong bùm nựa sogi =))',
     btnReply: 'trả lời thật lòng nào',
